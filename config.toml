@@ -1,4 +1,4 @@
-baseURL = 'creativeartatolye.com'
+baseURL = 'https://ugurnarmann.github.io/CreativeArtWeb/'
 languageCode = 'tr-tr'
 paginate = 6
 theme= "coHub"
