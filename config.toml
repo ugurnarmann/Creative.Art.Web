@@ -1,7 +1,7 @@
 baseURL = 'http://creativeartatolye.com/'
 languageCode = 'tr-tr'
 paginate = 6
-theme= "coHub"
+theme= "cohub"
 title = 'Creative Art Atölye'
  
 [Menu]
