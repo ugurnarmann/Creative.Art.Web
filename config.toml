@@ -1,4 +1,5 @@
-baseURL = 'creativeartatolye.com'
+baseURL = ''
+relativeURLs = "True"
 languageCode = 'tr-tr'
 paginate = 6
 theme= "cohub"
