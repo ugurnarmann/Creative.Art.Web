@@ -23,7 +23,7 @@ title = 'Creative Art Atölye'
   url= "#blog"
   weight = 4
   #[[menu.Main]]
-  #name = "Pricing"
+  #name = "Fiyatlar"
   #url= "#pricing"
   #weight = 5
   [[menu.Main]]
