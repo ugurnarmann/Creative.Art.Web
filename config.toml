@@ -1,4 +1,4 @@
-baseURL = 'https://www.creativeartatolye.com/'
+baseURL = 'https://creativeartatolye.com/'
 relativeURLs = "True"
 languageCode = 'tr-tr'
 paginate = 6
