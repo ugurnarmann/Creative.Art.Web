@@ -2,15 +2,7 @@
 title: "Hakkında"
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
-        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
-sliderImage:
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
----
-## This Is Our Story.
+        Alanında uzman ve deneyimli tiyatro ve sinema oyuncuları, yurt içi ve yurt dışında dizi ve film projeleriyle tanınmış başarılı sanatçılar, oyuncu koçları, eğitim danışmanları, iletişim uzmanları, senaryo yazarları, yönetmenler, kameramanlar, art direktörler, kariyer ve imaj danışmanları ile geniş bir sanat ekibinden oluşan kadroyla sahne sanatları, mesleki ve kişisel gelişim eğitimleri vermekteyiz.
 
-We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
-ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
-financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
-you into new exciting spaces.
+
+---

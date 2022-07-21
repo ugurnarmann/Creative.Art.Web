@@ -2,37 +2,33 @@
 enable: true
 title: "Özel Derslerimiz"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          Vakitsizlik Artık Engel Değil! Size Uygun Gün ve Saatlerde Eğitiminizi Planlıyoruz!
 services:
-  - name: "largest Network"
+  - name: "Tiyatro Ve Temel Oyunculuk"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+                Yeteneğim var, oyuncu olmak istiyorum ama nereden başlayacağımı bilemiyorum diyorsanız doğru yerdesiniz! 
+                Creative Art Atölye oyunculuk kursu Türkiye’nin en çok tercih edilen sinema okulu!
+    icon: "ti-user"
+  - name: "Kamera Önü Audition"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+                Ünlü TV ve sinema oyuncularına özeniyor ve onlardan biri mi olmak istiyorsunuz? 
+                Türkiye’nin en çok tercih edilen Creative Art Atölye kamera önü oyunculuk kursu sizi bekliyor!!
+    icon: "ti-video-camera"
+  - name: "Fotoğrafçılık"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
+                Merakım var, fotoğrafçı olmak istiyorum ama nereden başlayacağımı bilemiyorum diyorsanız doğru yerdesiniz! 
+                Creative Art Atölye fotoğrafçılık kursu tam size göre!
+    icon: "ti-camera"
+  - name: "Ritim"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
+                İçinizde ki ritme ayak uydurun!
+    icon: "ti-music"
+  - name: "Gitar"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
+                Kaliteli olan gitar değil onu kullanandır... İçinizde ki sanatçıyı keşfedin!
+    icon: "ti-music-alt"
+  - name: "Plastik Makyaj"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                Plastik Makyaj olarak bilinen ve yapay effect etkisi ile makyajın sanat boyutunu oluşturan bu program sayesinde Hollywood film ve dizilerinde izlediğiniz tüm karakter uygulamalarını öğrenerek kendi yaratıcılığınızın sınırlarını zorlayabileceksiniz.
+    icon: "ti-brush"
 ---
