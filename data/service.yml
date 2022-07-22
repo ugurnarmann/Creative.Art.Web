@@ -29,6 +29,6 @@ services:
     icon: "ti-music-alt"
   - name: "Plastik Makyaj"
     description: >
-                Plastik Makyaj olarak bilinen ve yapay effect etkisi ile makyajın sanat boyutunu oluşturan bu program sayesinde Hollywood film ve dizilerinde izlediğiniz tüm karakter uygulamalarını öğrenerek kendi yaratıcılığınızın sınırlarını zorlayabileceksiniz.
+                Plastik Makyaj olarak bilinen ve yapay efekt etkisi ile makyajın sanat boyutunu oluşturan bu program sayesinde Hollywood film ve dizilerinde izlediğiniz tüm karakter uygulamalarını öğrenerek kendi yaratıcılığınızın sınırlarını zorlayabileceksiniz.
     icon: "ti-brush"
 ---
