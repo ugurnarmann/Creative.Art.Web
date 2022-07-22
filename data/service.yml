@@ -7,12 +7,12 @@ services:
   - name: "Tiyatro Ve Temel Oyunculuk"
     description: >
                 Yeteneğim var, oyuncu olmak istiyorum ama nereden başlayacağımı bilemiyorum diyorsanız doğru yerdesiniz! 
-                Creative Art Atölye oyunculuk kursu Türkiye’nin en çok tercih edilen sinema okulu!
+                Creative Art Atölye oyunculuk kursu tam size göre!
     icon: "ti-user"
   - name: "Kamera Önü Audition"
     description: >
                 Ünlü TV ve sinema oyuncularına özeniyor ve onlardan biri mi olmak istiyorsunuz? 
-                Türkiye’nin en çok tercih edilen Creative Art Atölye kamera önü oyunculuk kursu sizi bekliyor!!
+                Creative Art Atölye kamera önü oyunculuk kursu sizi bekliyor!!
     icon: "ti-video-camera"
   - name: "Fotoğrafçılık"
     description: >
